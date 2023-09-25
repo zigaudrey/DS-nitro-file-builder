@@ -7,7 +7,7 @@ A Python-Script that convert a picture into Nitro files for Nintendo DS Rom Hack
 1. Launch **the script in the console so PIL will works**
 1. Choose a picture you want to convert. It has to be **under or equal to 256x192 and both dimensions a divisible of 8**
 1. Choose the color depth. It is **best to match the depth from the original picture and use a drawing software to check how many colors it has**
-1. Choose the X and Y position to place on the picture. **The script show which position you can choose**
+1. Choose the X and Y position to place on the screen. **Depending on the size of the picture, the script shows which position you can choose**
 1. **Three Nitro files will be created**, ready to be used in Rom Hack
 
 ## Notice
