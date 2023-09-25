@@ -20,6 +20,7 @@ If you open a new 16-colors NCGR pictures in [NitroPaint](https://github.com/Gar
 ## Results
 ![Giana Sisters DS - Credit MOD (DSLazy Method)__28380 Zigaudrey Last Screen](https://github.com/zigaudrey/DS-nitro-file-builder/assets/129554573/f14ccaf7-66cd-46aa-8c34-f28dbba3b0cc)
 < 256-colors (Giana Sisters DS)
+
 ![WarioWare DIY - Tech Savvy Guy Splash Screen__27382](https://github.com/zigaudrey/DS-nitro-file-builder/assets/129554573/31c7fcad-7a5b-4207-bebc-16d911ff8701)
 < 16-colors (WarioWare: Do It Yourself)
 
