@@ -6,16 +6,16 @@ A Python-Script that convert a picture into Nitro files for Nintendo DS Rom Hack
 1. If you don't have PIL, **open the console and install with PIP**
 1. Launch **the script in the console so PIL will works**
 1. Choose a picture you want to convert. It has to be **under or equal to 256x192 and both dimensions a divisible of 8**
-1. Choose the color depth. It is **best to match the depth from the original picture and use a drawing software to check how many colors it has**
+1. Choose the color depth. It is **best to match the depth of the original picture and use a drawing software to check how many colors it has**
 1. Choose the X and Y position to place on the screen. **Depending on the size of the picture, the script shows which position you can choose**
-1. **Three Nitro files will be created**, ready to be used in Rom Hack
+1. **Three Nitro files will be created**, ready to be used in DS Rom Hack
+
+## What the script lacks
+- Check for duplicate or flipped tiles
+- Making multiple palettes of 16 or 256 colors
 
 ## Notice
 If you open a new 16-colors NCGR pictures in [NitroPaint](https://github.com/Garhoogin/NitroPaint), you will find a second transparent part. Ignore it.
-
-## What the script can't do
-- Check for duplicate or flipped tiles
-- Making multiple palettes of 16 or 256 colors
 
 ## Fun Facts
 - A 16-colors NCGR file share the same format as the GBA. It can be modified in [YY-CHR](https://www.romhacking.net/utilities/119/) with the GBA setting
@@ -31,5 +31,6 @@ If you open a new 16-colors NCGR pictures in [NitroPaint](https://github.com/Gar
 ## Sources
 Many DS games, their files and [GBATek](http://problemkaputt.de/gbatek-ds-files-2d-video.htm)
 
+## End note
 This script is sufficient to have the picture display on DS.
 If you have issue or suggestion, feel free to share.
