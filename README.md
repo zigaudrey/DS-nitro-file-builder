@@ -1,5 +1,5 @@
 ![DS Nitro Builder Banner](https://github.com/zigaudrey/DS-nitro-file-builder/assets/129554573/b7197262-f7bb-4bb1-ab26-fa289d74a30e)
-# DS Nitro files Builder
+# DS Nitro Files Builder
 A Python-Script that convert a picture into Nitro files for Nintendo DS Rom Hacking
 
 ## Steps
