@@ -28,3 +28,4 @@ If you open a new 16-colors NCGR pictures in [NitroPaint](https://github.com/Gar
 Many DS games, their files and [GBATek](http://problemkaputt.de/gbatek-ds-files-2d-video.htm)
 
 This script is sufficient to have the picture display on DS.
+If you have issue or suggestion, feel free to share.
