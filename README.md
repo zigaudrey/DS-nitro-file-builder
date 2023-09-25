@@ -13,6 +13,10 @@ A Python-Script that convert a picture into Nitro files for Nintendo DS Rom Hack
 ## Notice
 If you open a new 16-colors NCGR pictures in [NitroPaint](https://github.com/Garhoogin/NitroPaint), you will find a second transparent part. Ignore it.
 
+## What the script can't do
+- Check for duplicate or flipped tiles
+- Making multiple palettes of 16 or 256 colors
+
 ## Fun Facts
 - A 16-colors NCGR file share the same format as the GBA. It can be modified in [YY-CHR](https://www.romhacking.net/utilities/119/) with the GBA setting
 - A 256-colors palette also works for a 16-colors picture, as seen with Cooking Mama DS
