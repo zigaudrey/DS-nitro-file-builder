@@ -10,6 +10,13 @@ A Python-Script that convert a picture into Nitro files for Nintendo DS Rom Hack
 1. Choose the X and Y position to place on the screen. **Depending on the size of the picture, the script shows which position you can choose**
 1. **Three Nitro files will be created**, ready to be used in DS Rom Hack
 
+## Results
+![Giana Sisters DS - Credit MOD (DSLazy Method)__28380 Zigaudrey Last Screen](https://github.com/zigaudrey/DS-nitro-file-builder/assets/129554573/f14ccaf7-66cd-46aa-8c34-f28dbba3b0cc)
+< 256-colors (Giana Sisters DS)
+
+![WarioWare DIY - Tech Savvy Guy Splash Screen__27382](https://github.com/zigaudrey/DS-nitro-file-builder/assets/129554573/31c7fcad-7a5b-4207-bebc-16d911ff8701)
+< 16-colors (WarioWare: Do It Yourself)
+
 ## What the script lacks
 - Check for duplicate or flipped tiles
 - Making multiple palettes of 16 or 256 colors
@@ -19,14 +26,7 @@ If you open a new 16-colors NCGR pictures in [NitroPaint](https://github.com/Gar
 
 ## Fun Facts
 - A 16-colors NCGR file share the same format as the GBA. It can be modified in [YY-CHR](https://www.romhacking.net/utilities/119/) with the GBA setting
-- A 256-colors palette also works for a 16-colors picture, as seen with Cooking Mama DS
-
-## Results
-![Giana Sisters DS - Credit MOD (DSLazy Method)__28380 Zigaudrey Last Screen](https://github.com/zigaudrey/DS-nitro-file-builder/assets/129554573/f14ccaf7-66cd-46aa-8c34-f28dbba3b0cc)
-< 256-colors (Giana Sisters DS)
-
-![WarioWare DIY - Tech Savvy Guy Splash Screen__27382](https://github.com/zigaudrey/DS-nitro-file-builder/assets/129554573/31c7fcad-7a5b-4207-bebc-16d911ff8701)
-< 16-colors (WarioWare: Do It Yourself)
+- A 256-colors palette also works for a 16-colors picture, as seen with Cooking Mama D
 
 ## Sources
 Many DS games, their files and [GBATek](http://problemkaputt.de/gbatek-ds-files-2d-video.htm)
